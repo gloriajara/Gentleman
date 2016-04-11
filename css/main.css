@@ -1,0 +1,186 @@
+header {
+	width: 100%;
+	height: auto;
+	margin: 0;
+}
+
+.fondo {
+	background-color: #141414;
+	border: #ffffff solid 1px;
+	margin: 0;
+	padding: 13px 230px;
+}
+
+.fondo h1 {
+	color: #D1D1D1;
+	font-family: Helvetica;
+	font-weight: lighter;
+}
+
+.menu nav ul {
+	list-style-type: none;
+	margin-top: 10px;
+	margin-left: 110px;
+	font-family: Serif;
+	font-size: 12px;
+	white-space: nowrap;
+}
+
+.menu nav li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	border: solid #141414 1px;
+}
+
+.menu nav li:hover a {
+	background: transparent;
+}
+
+
+.menu nav a {
+	text-decoration: none;
+	padding: 15px 13px;
+	color: #D1D1D1;
+
+}
+
+.menu nav a:hover {
+	color: #F22428;
+}
+
+.fondo span {
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.fondo1 {
+	background-color: #DED5F7;
+}
+
+.fondo2 {
+	background-color: #ffffff;
+	width: 800px;
+	margin: 0 50px 0 230px;
+	border: 2px solid #CCCCCC;
+	border-top: transparent;
+	border-bottom: transparent;
+	padding: 20px 40px 20px 20px;
+	height: auto;
+}
+
+.fondo2 img {
+	width: 470px;
+	height: auto;
+}
+
+.texto {
+	padding: 10px 0 0 12px;
+}
+
+.texto h2 {
+	color: #5E5C5C;
+	font-weight: lighter;
+	font-family: 'Times New Roman';
+}
+
+.texto p {
+	font-size: 12px;
+	color: #858585;
+	font-family: Helvetica;
+}
+
+.boton {
+	width: 84px;
+	height: 24px;
+	border-radius: 74px;
+	border: 0px solid #000000;
+}
+
+.boton a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.menu1 h3 {
+	color: #5E5C5C;
+}
+
+.menu1 nav ul {
+	list-style-type: none;
+	font-family: Serif;
+	font-size: 12px;
+	white-space: nowrap;
+}
+
+.menu1 nav li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	border: solid #ffffff 1px;
+}
+
+.menu1 nav li:hover a {
+	background: transparent;
+}
+
+
+.menu1 nav a {
+	text-decoration: none;
+	padding: 10px 3px;
+	color: #A8A7AB;
+	font-size: 10px;
+}
+
+.menu1 nav a:hover {
+	color: #000000;
+}
+
+.fila1 img {
+	width: 350px;
+	height: auto;
+}
+
+.fila1 h4 {
+	color: #5E5C5C;
+}
+
+.fila1 p {
+	font-size: 9px;
+	color: #858585;
+	font-family: Helvetica;
+}
+
+.boton1 {
+	width: 117px;
+	height: 26px;
+	border-radius: 74px;
+	border: 0px solid #000000;
+	margin-left: 310px;
+	background-color: #6F6E70;
+}
+
+.boton1 a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.pie h3 {
+	color: #595959;
+	font-family: Helvetica;
+	font-weight: lighter;
+}
+
+.pie span {
+	font-weight: bold;
+	color: #6E6E6E;	
+}
+
+.redes i {
+	width: 50px;
+	border: 2px dotted #6E6E6E;
+	border-radius: 50%;
+	height: 50px;
+}
+
+
